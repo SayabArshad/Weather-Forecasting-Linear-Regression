@@ -70,9 +70,9 @@ Sample output:
 
 ```
 Weather-Forecasting-Linear-Regression/
-│-- Weather Forecasting using historical data.py   # Main script
-│-- README.md                                       # Documentation
-│-- assets/                                          # Images for README
+│-- Weather Forecasting using historical data.py   
+│-- README.md                                      
+│-- assets/                                          
 │    ├── code.JPG
 │    ├── output.JPG
 │    └── plot.JPG
